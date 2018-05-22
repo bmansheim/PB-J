@@ -9,7 +9,7 @@ To make a peanut butter and jelly sandwich:
     * Two slices ofead
     * A plate
     * A table knife
-    * Three sheet of paper towel
+    * Three sheets of paper towel
   
 1. Place the two slices of bread side-by-side on the plate.
 1. Put the peanut butter on one of the slices of bread:
